@@ -40,7 +40,7 @@ Pod::Spec.new do |spec|
     ss.dependency 'SonarKit/FBDefines'
     ss.dependency 'SonarKit/FBCxxUtils'
     ss.dependency 'Folly', '~>1.0'
-    ss.dependency 'Sonar', '~>0.16.12'
+    ss.dependency 'Sonar', '~>0.6.12'
     ss.dependency 'CocoaAsyncSocket', '~> 7.6'
     ss.dependency 'PeerTalk', '~>0.0.2'
     ss.dependency 'OpenSSL-Static', '1.0.2.c1'
